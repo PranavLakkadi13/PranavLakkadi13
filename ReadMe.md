@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishek-2416&label=Profile%20views&color=0e75b6&style=flat" alt="abhishek-2416" /> </p>
 
-<p align="left"> <a href="https://twitter.com/abhishek_987506" target="blank"><img src="https://img.shields.io/twitter/follow/abhishek_987506?logo=twitter&style=for-the-badge" alt="abhishek_987506" /></a> </p>
+<p align="left"> <a href="https://twitter.com/pranavlakkadi13" target="blank"><img src="https://img.shields.io/twitter/follow/abhishek_987506?logo=twitter&style=for-the-badge" alt="abhishek_987506" /></a> </p>
 
 - 🌱 I’m currently learning **Hardhat**
 
