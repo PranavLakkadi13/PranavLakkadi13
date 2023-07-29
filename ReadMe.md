@@ -1,4 +1,4 @@
-![MasterHead](![image](https://github.com/PranavLakkadi13/PranavLakkadi13/assets/95748382/98217b1d-4d41-45c5-85d4-1a1070603570)
+![MasterHead](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.flowbank.com%2Fhs-fs%2Fhubfs%2Fimage-png-Apr-21-2021-04-03-16-51-PM.png%3Fwidth%3D1102%26name%3Dimage-png-Apr-21-2021-04-03-16-51-PM.png&f=1&nofb=1&ipt=b35174552a805e21a4dc9cb4c364906d7a0a7f69f735675f568b4390a4856f13&ipo=images
 )
 <h1 align="center">Hi 🙋‍♂️, I'm Pranav Lakkadi</h1>
 <h3 align="center">A passionate Web3 and Smart Contract developer</h3>
