@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **Solidity**
 
-- 📫 How to reach me **happyman041322@protonmail.com**
+- 📫 How to reach me **pranavlakkadi@gmail.com**
 
 - 📄 Know about my experiences (will be updated soon)
 
