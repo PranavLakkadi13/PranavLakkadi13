@@ -8,10 +8,6 @@
 
 <p align="left"> <a href="https://twitter.com/pranavlakkadi13" target="blank"><img src="https://img.shields.io/twitter/follow/pranavlakkadi13?logo=twitter&style=for-the-badge" alt="pranavlakkadi13" /></a> </p>
 
-- 🌱 I’m currently learning **Hardhat** and **Foundry**
-
-- 👨‍💻 All of my projects are available at (will be updated soon)
-
 - 💬 Ask me about **Solidity**
 
 - 📫 How to reach me **pranavlakkadi@gmail.com**
