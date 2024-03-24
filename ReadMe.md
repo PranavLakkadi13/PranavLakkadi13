@@ -10,9 +10,7 @@
 
 - 💬 Ask me about **Solidity**
 
-- 📫 How to reach me **pranavlakkadi@gmail.com**
-
-- 📄 Know about my experiences (will be updated soon)
+- 📫 Reach me at **pranavlakkadi@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
