@@ -10,6 +10,8 @@
 
 - 💬 Ask me about **Solidity**
 
+- 🛠️🛠️ Into Smart Contract Security 🛠️🛠️ 
+
 - 📫 Reach me at **pranavlakkadi@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
