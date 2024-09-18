@@ -1,8 +1,7 @@
-![MasterHead](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.flowbank.com%2Fhs-fs%2Fhubfs%2Fimage-png-Apr-21-2021-04-03-16-51-PM.png%3Fwidth%3D1102%26name%3Dimage-png-Apr-21-2021-04-03-16-51-PM.png&f=1&nofb=1&ipt=b35174552a805e21a4dc9cb4c364906d7a0a7f69f735675f568b4390a4856f13&ipo=images
-)
+
 <h1 align="center">Hi 🙋‍♂️, I'm Pranav Lakkadi</h1>
 <h3 align="center">A passionate Web3 and Smart Contract developer</h3>
-<!-- <img align="right" alt="Coding" width="400" src="https://imgs.search.brave.com/vNRWoqK5KpX2lV9iFcCgcufOeHQ3oPIdX0eKuhf00NU/rs:fit:800:600:1/g:ce/aHR0cHM6Ly9pbWFn/ZXMuc3F1YXJlc3Bh/Y2UtY2RuLmNvbS9j/b250ZW50L3YxLzU3/NjlmYzQwMWI2MzFi/YWIxYWRkYjJhYi8x/NTQxNTgwNjExNjI0/LVRFNjRRR0tSSkc4/U1dBSVVTN05TL2Nv/ZGluZy1mcmVhay5n/aWY.gif"> -->
+<img align="right" alt="Coding" width="400" src="https://imgs.search.brave.com/vNRWoqK5KpX2lV9iFcCgcufOeHQ3oPIdX0eKuhf00NU/rs:fit:800:600:1/g:ce/aHR0cHM6Ly9pbWFn/ZXMuc3F1YXJlc3Bh/Y2UtY2RuLmNvbS9j/b250ZW50L3YxLzU3/NjlmYzQwMWI2MzFi/YWIxYWRkYjJhYi8x/NTQxNTgwNjExNjI0/LVRFNjRRR0tSSkc4/U1dBSVVTN05TL2Nv/ZGluZy1mcmVhay5n/aWY.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishek-2416&label=Profile%20views&color=0e75b6&style=flat" alt="abhishek-2416" /> </p>
 
