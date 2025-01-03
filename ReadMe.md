@@ -24,5 +24,5 @@
 
 <h3 align="left">Statistics:</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=PranavLakkadi13&show_icons=true&locale=en&layout=compact" alt="PranavLakkadi13" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=PranavLakkadi13&show_icons=true&locale=en" alt="PranavLakkadi13" /></p><br>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=PranavLakkadi13&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" alt="PranavLakkadi13" /></p><br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=PranavLakkadi13" alt="PranavLakkadi13" /></p>
