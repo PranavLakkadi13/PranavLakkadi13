@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Solidity**
 
-- 🛠️🛠️ Into Smart Contract Security 🛠️🛠️ 
+- 🛠️🛠️ Into Smart Contract and Rust 🛠️🛠️ 
 
 - 📫 Reach me at **pranavlakkadi@gmail.com**
 
